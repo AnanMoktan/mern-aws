@@ -1,5 +1,5 @@
 # mern-aws
-This is a simple workout listing app. users can list their workouts and on completion of workout they can delete it. Users can logincreate their own account and can also download workout guide for good body where workout guide is hosted from S3 bucket.
+This is a simple workout listing app. users can list their workouts and on completion of workout they can delete it. Users can login and create their own account. They can also download workout guide for good body. Here workout guide is hosted from S3 bucket.
 
 ## Installation
 
