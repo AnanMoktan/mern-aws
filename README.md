@@ -16,7 +16,7 @@ This is a simple workout listing app. users can list their workouts and on compl
 8. cd frontend
 9. npm install
 10. npm start
-11. NOTE This is basic instruction to run to all future you may need to setup cofiguration files
+11. NOTE This is basic instructions to run for all features you may need to setup cofiguration files.
     
 
 
